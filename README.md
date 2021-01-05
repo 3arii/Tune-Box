@@ -3,9 +3,9 @@ Tune Box is a Music App that is run in your browser, It has a friendly, easy-to-
 
 ## Screenshots
 
-![First Song with Dark Mode](/imgages/Screenshots/20210105_110354.png)
-![First Song with Light Mode](/imgages/Screenshots/20210105_110340.png)
-![Second Song with Light Mode](/imgages/Screenshots/20210105_110417.png)
+![First Song with Dark Mode](/images/Screenshots/20210105_110354.png)
+![First Song with Light Mode](/images/Screenshots/20210105_110340.png)
+![Second Song with Light Mode](/images/Screenshots/20210105_110417.png)
 
 ## How to install it?
 
