@@ -1,5 +1,5 @@
 # Tune-Box
-Tune Box is a Music App that is run in your browser, It has a friendly, easy-to-use good-looking GUI. It utilizes JavaScript, HTML and CSS to create the best looking and the most uder-friendly experience you can get.
+Tune Box is a Music App that is run in your browser, It has a friendly, easy-to-use good-looking GUI. It utilizes JavaScript, HTML and CSS to create the best looking and the most user-friendly experience you can get.
 
 ## Screenshots
 
